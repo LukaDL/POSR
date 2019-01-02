@@ -1,0 +1,3 @@
+Clinton        2   2   M1  2   1   2   
+Jenn           3   2   F1  3   3   2   
+Jenna          3   3   F1  2   2   2   
